@@ -30,14 +30,7 @@ hidden: false
 
 ناس شايلين أكسنت إنجليزي تقيل، بيتكلموا بطريقة مش بتاعتهم، مغيرين اسمهم، لو قلت ليهم كلمة عربية في الكلام هيبصوا عليك بنظرة "أنا اسمي اليكس مش علي" بيتنكروا لكل حاجة بتعرفهم، وفي الآخر لا الأجنبي مصدقهم ولا المصري مرتاحلهم
 
-<iframe width="auto" height="auto" 
-  src="https://youtube.com/watch?v=8ieFc0Ex1RE" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  referrerpolicy="strict-origin-when-cross-origin">
-</iframe>
-
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1168565928?h=22827b82d6" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 ---
 
 ## النوع التاني: الهندي المبسوط بنفسه
