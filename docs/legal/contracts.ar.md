@@ -65,7 +65,9 @@ hidden: false
 
 المخرج مايك مونتيرو عمل محاضرة شهيرة عن حقوق الفريلانسرز والعملاء اللي مش بيدفعوا:
 
+<div class="video-wrapper">
 <iframe src="https://player.vimeo.com/video/22053820" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
+</div>
 
 لو مش قادر تشوف الفيديو، الفكرة الأساسية: **مش هتسلم شغل من غير ما تتقبض.** قانونياً وأخلاقياً الشغل ملكك لحد ما العميل يدفع
 
