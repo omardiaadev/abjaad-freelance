@@ -40,7 +40,7 @@ And just in case that was not enough, every family gathering has that one uncle 
 
 > “Why aren’t you freelancing yet? People are making thousands of dollars from their laptops!”
 
-Meesho believed them.
+Meesho believed them. How couldn't he?
 
 ---
 
