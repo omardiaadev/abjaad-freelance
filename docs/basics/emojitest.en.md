@@ -28,7 +28,8 @@ Phoenix 🐦‍🔥
 
 Mushroom 🍄
 
-🫍 🧑‍🩰 🙂‍↕️
+🫍 🧑‍🩰 🙂‍↕️ 🫯 
+unicode 17
 
 is it apple 🍏 or 🐦itter? sorry, ✖️ 
 
