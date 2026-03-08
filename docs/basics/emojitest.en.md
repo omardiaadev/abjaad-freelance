@@ -28,6 +28,8 @@ Phoenix 🐦‍🔥
 
 Mushroom 🍄
 
+🫍 🧑‍🩰 🙂‍↕️
+
 Head shaking horizontally 🙂‍↔️
 
 Head shaking vertically 🙂‍↕️
