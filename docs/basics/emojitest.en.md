@@ -48,6 +48,8 @@ Syria new flag 🇸🇾
 def greet():
     print("Hello 🌍")
     return "🎉"
+
+print("yoo")
 ```
 
 ## Mixed Content
