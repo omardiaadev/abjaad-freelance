@@ -6,6 +6,13 @@ description:
   en: "Testing FAQ structured data"
   ar: "اختبار بيانات الأسئلة المنظمة"
 order: 99
+category_order: 1
+category_title:
+  en: "Basics"
+  ar: "الأساسيات"
+category_description:
+  en: "Everything you need to know before you start freelancing"
+  ar: "كل حاجة محتاج تعرفها قبل ما تبدأ في الفريلانس"
 hidden: true
 faq:
   - q: "Does the FAQ render correctly?"
