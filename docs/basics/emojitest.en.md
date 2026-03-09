@@ -76,5 +76,8 @@ Engineer 👨‍💻
 
 Astronaut 👩‍🚀
 
+icons: :linkedin: and :github: and :twitter: maybe :facebook:
 
 https://youtu.be/u3SIKAmPXY4
+
+https://vimeo.com/1168269573
